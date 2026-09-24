@@ -112,7 +112,7 @@ Workflow сам:
 - `ANDROID_UPLOAD_KEYSTORE_B64`
 - `ANDROID_UPLOAD_KEYSTORE_PASSWORD`
 - `ANDROID_UPLOAD_KEY_ALIAS`
-- `ANDROID_KEY_PASSWORD`
+- `ANDROID_UPLOAD_KEY_PASSWORD`
 
 После этого workflow переключается на постоянную release-подпись. Сам keystore в Git не коммитится.
 
